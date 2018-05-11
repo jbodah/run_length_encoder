@@ -1,6 +1,6 @@
 # run_length_encoder
 
-Run-length encode/decode stuff
+run-length encode/decode stuff
 
 ## Installation
 

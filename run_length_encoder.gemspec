@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Josh Bodah"]
   spec.email         = ["joshuabodah@gmail.com"]
 
-  spec.summary       = %q{Run-length encode/decode stuff}
+  spec.summary       = %q{run-length encode/decode stuff}
   spec.homepage      = "https://github.com/jbodah/run_length_encoder"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
